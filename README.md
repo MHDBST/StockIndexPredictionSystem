@@ -3,7 +3,7 @@ Predicting  Value at Risk of Iranian bourse data using one parametric and one no
 
 
 
-In this project, I use one parametric and one non-parametric method for predicting the Value at Risk (VaR) of Iran Bourse data between 2009 to 2014. The implementation is done using Matlab.
+In this project, I use one parametric and one non-parametric method for predicting the Value at Risk (VaR) of Iran Bourse data between 2009 to 2014. The implementation is done using Python.
 
 
 1.
