@@ -1,4 +1,4 @@
-# StockIndexPredictionSystem
+# Stock_Index_Prediction_System
 Predicting  Value at Risk of Iranian bourse data using one parametric and one none parametric method
 
 
